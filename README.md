@@ -1,6 +1,7 @@
 
 # Cyclistic Bike-Share Analysis
 
+## Introduction
 This is a capstone project which concludes the Google Data Analytic professional course.
 
 Cyclistic Bike-Share is a ficticious company that provides bike services in the state of Chicago, USA. 
@@ -19,3 +20,7 @@ Cyclistic Bike-Share.
 
 This repository consist of the python notebook for the analysis,
 and the slide presentation of the analysis.
+
+## Methodology
+The series of tables were extracted using python, then these table were exported to tableau to create the visializations for each table.
+These visualizations were screenshoted and used to create the slide presentations which gives the insights gotten from the analysis.

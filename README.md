@@ -19,7 +19,7 @@ to memebers which will be more profitable to
 Cyclistic Bike-Share.
 
 This repository consist of the python notebook for the analysis,
-and the slide presentation of the analysis.
+and the slide presentation of the analysis in pptx format. But you can also view the skides via <a href = "https://docs.google.com/presentation/d/1rjwikUeFNoe0W4ln94iskeX9n3HqEItH_sb8kp1UoAM/edit?usp=sharing">this link</a> as well.
 
 ## Methodology
 + The series of tables were extracted and converted to csv files using python.
